@@ -14,7 +14,7 @@ app.get("/about", function(req, res) {
 });
 
 app.get("/hobbies", function(req, res) {
-    res.send("Code, Pray, Play");
+    res.send("Code, Pray, Repeat");
 });
 
 app.listen(3000, function() {
